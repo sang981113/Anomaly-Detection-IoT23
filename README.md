@@ -18,11 +18,13 @@ There are total of 4 models are implemented in this project:
 * SVM
 * Decision Trees
 * Navie Bayes
+* LSTM
+* GRU
   
 ## Environment Settings
 Anaconda Jupyter Notebook  
-Python 3.8  
-Tensorflow 2.4  
+Python 3.8.10
+Tensorflow 2.8.0
   
 ## IoT-23 Dataset  
 Stratosphere Laboratory. A labeled dataset with malicious and benign IoT network traffic. January 22th. Agustin Parmisano, Sebastian Garcia, Maria Jose Erquiaga.  
